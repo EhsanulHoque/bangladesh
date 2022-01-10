@@ -103,8 +103,9 @@ a{
    
     box-shadow: 10px 10px 10px rgb(74, 74, 85);
     padding-left: 1cm;
-   border-left: 7px solid;
-   border-color: indigo;
+    border-left: 10px solid;
+    border-color: rgba(150, 14, 14, 0.377);
+  
   
    
 }
