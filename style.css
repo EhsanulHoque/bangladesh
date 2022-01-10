@@ -29,6 +29,7 @@ h3{
 }
 #first{
     display: flex;
+   
     
 
 }
@@ -44,7 +45,7 @@ h3{
     width: 13cm;
     height: 8cm;
 }
-#para2{
+.para2{
     font-family: 'Vujahday Script', cursive;
     font-size: larger;
     color: black;
@@ -58,9 +59,9 @@ h3{
 }
 #second{
     display: flex;
-
+    
 }
-#warr{
+.warr{
     color: rgb(15, 99, 184);
     font-family: 'Lobster', cursive;
     background-color: rgb(235, 158, 17);
@@ -96,5 +97,20 @@ a{
     text-align: center;
     font-family: 'Lobster', cursive;
     width: 10cm;
+    
+}
+.fourthdiv{
+   
+    box-shadow: 10px 10px 10px rgb(74, 74, 85);
+    padding-left: 1cm;
+   border-left: 7px solid;
+   border-color: indigo;
+  
+   
+}
+
+
+#fourth{
+    display: flex;
     
 }
