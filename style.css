@@ -1,0 +1,73 @@
+#ONE{
+   
+    color: green;
+}
+#TWO{
+    color: red;
+}
+body{
+    margin-left: 1cm;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    font-size: x-large;
+    color: palegreen;
+    background-color: purple;
+    width: 4cm;
+    padding-left: 10px;
+    border-radius: 12px;
+
+}
+#para1{
+    font-family: 'Vujahday Script', cursive;
+    font-size: larger;
+    color: orangered;
+    background-color: rgb(30, 29, 31);
+    padding-left: 10px;
+    border-radius: 10px;
+    
+}
+#first{
+    display: flex;
+    
+
+}
+.firstdiv{
+    width: 50%;
+}
+#imi{
+    width: 17cm;
+    height: 12cm;
+    margin-top: 10px;
+}
+#imi2{
+    width: 13cm;
+    height: 8cm;
+}
+#para2{
+    font-family: 'Vujahday Script', cursive;
+    font-size: larger;
+    color: black;
+    background-color: rgb(226, 121, 226);
+    border-radius: 10px;
+    padding: 10px;
+    
+   
+    padding: 5px;
+    width: 20cm;
+}
+#second{
+    display: flex;
+
+}
+#warr{
+    color: rgb(15, 99, 184);
+    font-family: 'Lobster', cursive;
+    background-color: rgb(235, 158, 17);
+    width: 8cm;
+    padding-left: 10px;
+    border-radius: 12px;
+    
+
+}
+
